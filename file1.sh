@@ -1,3 +1,6 @@
+#!/bin/bash
+echo "Hello World"
+
 I am the Earth
 And the Earth is me
 Each blade of grass
